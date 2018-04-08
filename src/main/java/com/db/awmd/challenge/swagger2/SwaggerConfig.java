@@ -41,7 +41,7 @@ public class SwaggerConfig {// extends WebMvcConfigurerAdapter{
 				.description("\"Spring Boot REST API for money transfer\"").version("1.0.0")
 				// .license("Apache License Version 2.0")
 				// .licenseUrl("https://www.apache.org/licenses/LICENSE-2.0\"")
-				.contact(new Contact("Subharaj Saha", "", "")).build();
+				.contact(new Contact("Dipannita Saha", "", "")).build();
 	}
 
 	// @Override
